@@ -10,7 +10,7 @@
 
 - 프로젝트 MVP를 정의하고 프로젝트의 가치를 드러내기 위해 노력하였습니다. 또한 시간대비 임펙트를 낼 수 있는 테스크를 분리하여 일의 순서를 정하고 일정을 조절했습니다.
 
-![image](https://github.com/YoonJoowon/matrip/assets/118035287/21dcddc0-2a60-4358-a744-74786df9bae5)
+![image](https://github.com/YoonJoowon/matrip/assets/118035287/625457ec-dfb7-4c8f-9988-3626ca596390)
 
 ### 👯 프로젝트 인원
 
