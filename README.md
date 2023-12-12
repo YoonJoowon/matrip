@@ -10,6 +10,8 @@
 
 - 프로젝트 MVP를 정의하고 프로젝트의 가치를 드러내기 위해 노력하였습니다. 또한 시간대비 임펙트를 낼 수 있는 테스크를 분리하여 일의 순서를 정하고 일정을 조절했습니다.
 
+![image](https://github.com/YoonJoowon/matrip/assets/118035287/b16fc8f7-4858-4658-820f-0d4e3ac618e1)
+
 ### 👯 프로젝트 인원
 
 - 디자이너 1 명
@@ -32,5 +34,4 @@
 - 기획자, 디자이너 직군 특성상 데이터의 흐름에 따른 설계 방식을 이해하기 어렵다는 점에 따라 BDD 설계방식을 적극 활용하여 의사소통 진행
 
 ### ⬜ 담당 페이지 나열
-![image](https://github.com/YoonJoowon/matrip/assets/118035287/b16fc8f7-4858-4658-820f-0d4e3ac618e1)
 ![image](https://github.com/YoonJoowon/matrip/assets/118035287/b383d5b1-0c6c-4275-83a1-6ea310de3422)
